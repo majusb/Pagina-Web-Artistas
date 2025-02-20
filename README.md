@@ -1,11 +1,4 @@
-# React + Vite
+This project is about building a web page to search for artists and provide information about hiring them.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# e" 
-"# Projeto-Pagina-Web" 
-"# Projeto-Pagina-Web" 
+It was a very challenging project because I’ve never used these types of languages before.
+And since this is my first time, I need to work more to make it clear and functional.
