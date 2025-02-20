@@ -6,7 +6,7 @@ import SuccessPage from './SuccessPage.jsx';
 
 const App = () => {
   const handleRepeat = () => {
-    // Lógica para repetir a ação, se necessário
+    
   };
 
   return (

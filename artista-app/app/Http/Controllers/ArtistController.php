@@ -1,3 +1,4 @@
+
 namespace App\Http\Controllers;
 
 use App\Http\Controllers\Controller;
@@ -7,7 +8,6 @@ class ArtistController extends Controller
 {
     public function getArtists()
     {
-        // Lista de artistas com chave 'name' para ser consistente
         $artists = [
             ['id' => 1, 'name' => 'Coldplay'],
             ['id' => 2, 'name' => 'Maneskin'],
